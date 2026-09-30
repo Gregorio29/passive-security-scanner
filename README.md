@@ -1,5 +1,7 @@
 # Passive Security Scanner & Recon Toolkit
 
+[English](README.md) | [Español](README.es.md)
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Security: Passive](https://img.shields.io/badge/Scan%20Type-Non--Intrusive-green.svg)](#)
